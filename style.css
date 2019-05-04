@@ -1,0 +1,27 @@
+
+.btn{
+    margin : 20px;
+    padding: 5px;
+    font-size: 50px;
+}
+    .btn:hover{
+        cursor: pointer;
+        background-color:#82bd40 ;
+    outline:20px #abe5d9  solid ;
+    }
+   button.btn:hover{
+outline: 5px #aae5da;
+   }
+   form{
+       display:block;
+       background-image: linear-gradient( #b4e6d1 )
+   }
+   body{
+    background-image: linear-gradient( #5bd1d6,  #98d391 )
+   }
+   button{
+    background-color:#43a7bb ;
+    margin : 20px;
+    font-size: 20px;
+
+   }
